@@ -1,0 +1,25 @@
+# Java 编译文件
+*.class
+bin/
+build/
+out/
+
+# IDE 配置文件
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Tomcat 临时文件
+*.log
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Maven 编译输出
+target/
